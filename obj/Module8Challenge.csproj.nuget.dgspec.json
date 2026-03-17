@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Module8Challenge/Module8Challenge/Module8Challenge.csproj": {}
+    "/workspaces/Module8Challenge/Module8Challenge.csproj": {}
   },
   "projects": {
-    "/workspaces/Module8Challenge/Module8Challenge/Module8Challenge.csproj": {
+    "/workspaces/Module8Challenge/Module8Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Module8Challenge/Module8Challenge/Module8Challenge.csproj",
+        "projectUniqueName": "/workspaces/Module8Challenge/Module8Challenge.csproj",
         "projectName": "Module8Challenge",
-        "projectPath": "/workspaces/Module8Challenge/Module8Challenge/Module8Challenge.csproj",
+        "projectPath": "/workspaces/Module8Challenge/Module8Challenge.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Module8Challenge/Module8Challenge/obj/",
+        "outputPath": "/workspaces/Module8Challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
